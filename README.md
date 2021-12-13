@@ -1,5 +1,5 @@
 <p align="center">
-="https://github.com/godismyloard/kunjali/blob/Professor-99/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="DonLeeLogo">
+="https://github.com/godismyloard/kunjali/blob/godismyloard/kunjali/" alt="DonLeeLogo">
 </p>
 
 <p align="center">
